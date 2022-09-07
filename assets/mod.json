@@ -1,0 +1,12 @@
+{
+  "name": "modtemplate",
+  "displayName": "Template",
+  "author": "[#8738ff[]]shido[[]]",
+  "description": "Gradle jar Mindustry mod template",
+  "version": "0",
+  "main": "QOL.QOLmain",
+  "minGameVersion": "136",
+  "dependencies": [],
+  "hidden": false,
+  "java": true
+}
